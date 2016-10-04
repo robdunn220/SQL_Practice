@@ -1,5 +1,5 @@
 CREATE TABLE restaurant (
-  name varchar,
+  name varchar PRIMARY KEY,
   distance real,
   stars integer,
   category varchar,

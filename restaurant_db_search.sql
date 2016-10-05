@@ -1,0 +1,1 @@
+select * from restaurant where last_time_visited > '2016-09-27' and stars = '5'
